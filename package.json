@@ -1,29 +1,29 @@
 {
-  "name": "url-track",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "./node_modules/mocha/bin/mocha test/**"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MadKudu/url-track.git"
-  },
-  "author": "Paul Cothenet",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/MadKudu/url-track/issues"
-  },
-  "homepage": "https://github.com/MadKudu/url-track#readme",
-  "devDependencies": {
-    "babel-eslint": "6.0.0",
-    "chai": "3.5.0",
-    "eslint": "^2.5.3",
-    "mocha": "^2.4.5"
-  },
-  "dependencies": {
-    "lodash": "4.6.1",
-    "qs": "6.1.0"
-  }
+	"name": "url-track",
+	"version": "0.1.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "./node_modules/mocha/bin/mocha test/**"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MadKudu/url-track.git"
+	},
+	"author": "Paul Cothenet",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MadKudu/url-track/issues"
+	},
+	"homepage": "https://github.com/MadKudu/url-track#readme",
+	"devDependencies": {
+		"babel-eslint": "6.0.0",
+		"chai": "3.5.0",
+		"eslint": "^2.5.3",
+		"mocha": "^2.4.5"
+	},
+	"dependencies": {
+		"lodash": "4.6.1",
+		"qs": "6.1.0"
+	}
 }
